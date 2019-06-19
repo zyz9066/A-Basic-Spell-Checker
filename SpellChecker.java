@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 public class SpellChecker {
 	
-	private static final String CORPUS = "corpus-challenge5.txt";
+	private static final String CORPUS = "corpus.txt";
 	private static Scanner scan = new Scanner(System.in);
 
 	public static void main(String[] args) throws Exception {
