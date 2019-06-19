@@ -32,17 +32,26 @@ Output Format:
 For each word, output the correct spelling of the word. If the word is not misspelt, print it as is.
 ## Sample Input:
 5
+
 contan
-seroius  
+
+seroius 
+
 pureli
+
 dose
+
 note
 
 ## Sample Output:
 contain
+
 serious
+
 purely
+
 dose
+
 note
 
 ## Explanation:
