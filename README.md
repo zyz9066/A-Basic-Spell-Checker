@@ -1,6 +1,6 @@
 # A Basic Spell Checker
 
-This challenge will introduce you to the basics of Spell Checking. Right from what you type in a search box, or the red squiggles you see as you enter text via your browser, or the articles you write using an online or offline word processor; spell checking is an important tool on the PC and on the Internet.
+This will introduce you to the basics of Spell Checking. Right from what you type in a search box, or the red squiggles you see as you enter text via your browser, or the articles you write using an online or offline word processor; spell checking is an important tool on the PC and on the Internet.
 
 ## Most frequent spelling mistakes:
 People are prone to making spelling mistakes as they type in a hurry. It has been observed that the most common spelling mistakes occur for the following reasons: Deletion, Replacement, Transposition, Insertion Assume only the letters a-z are involved.
