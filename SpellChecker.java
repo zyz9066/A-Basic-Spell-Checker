@@ -1,5 +1,3 @@
-package ca.ubishops.yunxiuzhang.BasicSpellChecker;
-
 import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Paths;
