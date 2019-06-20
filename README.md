@@ -1,4 +1,5 @@
 # A Basic Spell Checker
+https://www.hackerrank.com/challenges/basic-spell-checker/problem
 
 This will introduce you to the basics of Spell Checking. Right from what you type in a search box, or the red squiggles you see as you enter text via your browser, or the articles you write using an online or offline word processor; spell checking is an important tool on the PC and on the Internet.
 
